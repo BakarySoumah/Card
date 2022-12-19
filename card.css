@@ -4,10 +4,12 @@ div.card{
     rgba(179,207,225,0.8),0 6px 20px 0 rgba(179,207,225,0.9);
     text-align: center;
     margin: auto;
-    display: flex;
-    align-items: center;
-    justify-content: center;
 }
 div .container{
     padding: 10px;
+}
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
